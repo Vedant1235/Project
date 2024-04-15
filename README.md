@@ -1,3 +1,4 @@
+Project is live:- https://crowdfunding-web3-2723.netlify.app/
 A CROWD FUNDING PLATFORM created with the help of blockchain , Ethereum wallets and smart contracts. 
 It is a digitalized crowdfunding platform which aims to provide a decentralized, transparent, and secure environment for creators to raise funds for their projects and for backers to support these projects.
 
